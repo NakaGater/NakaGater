@@ -2,7 +2,7 @@
   <img src="https://your-domain.com/assets/banner.png" width="100%" />
 </p>
 
-<h1 align="center">🐊 NakaGater</h1>
+<h1 align="center">🐊 NakaGater 🐊</h1>
 <p align="center">
   AI-Driven Development Practitioner<br/>
   AI駆動開発 実践者
@@ -32,8 +32,6 @@ I focus on:
   自動化された開発ループ設計
 - ⚙️ GitHub × AI workflow design  
   GitHub × AI ワークフロー設計
-- 🛡 Security-aware backend architecture  
-  セキュリティを意識したバックエンド設計
 
 > “Don't just use AI. Build with AI.”  
 > 「AIを使う」ではなく「AIと開発する」
@@ -45,7 +43,7 @@ I focus on:
 ### Frontend
 - React / TypeScript
 - Vite
-- Redux / 状態管理設計
+- Nextjs
 - UI設計
 
 ### Backend
@@ -120,14 +118,6 @@ AIが構造を実行する開発システムを実験しています。
 
 ---
 
-## 📫 Connect
-
-- X: https://x.com/your_handle
-- Qiita: https://qiita.com/your_id
-- Blog: (optional)
-
----
-
 <p align="center">
-  🐊 AI × Engineering × Execution
+  🐊 AI × Engineering × Execution 🐊
 </p>

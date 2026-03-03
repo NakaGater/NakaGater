@@ -2,7 +2,6 @@
   <img src="./assets/banner.png" width="100%" />
 </p>
 
-<h1 align="center">🐊 NakaGater 🐊</h1>
 <p align="center">
   AI-Driven Development Practitioner<br/>
   AI駆動開発 実践者
